@@ -20,5 +20,7 @@ Internacional. Isto significa que você pode alterar, transformar ou criar outra
 contanto que atribua o crédito ao autor original e não utilize a obra derivada para fins comerciais.
 
 
-Conheça também meu livro *"Pandas Python: Data Wrangling para Ciência de Dados"*. Informações completas em:  https://www.casadocodigo.com.br/products/livro-pandas-python
+Conheça também meu livro **"Pandas Python: Data Wrangling para Ciência de Dados"**, 
+que é inteiramente dedicado à biblioteca 'pandas', a mais popular biblioteca para Ciência de Dados 
+do Python. Informações completas em:  https://www.casadocodigo.com.br/products/livro-pandas-python
 
