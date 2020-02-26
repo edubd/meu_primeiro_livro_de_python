@@ -1,4 +1,6 @@
-#Meu Primeiro Livro de Python - Eduardo Corrêa
+# Meu Primeiro Livro de Python 
+
+## Eduardo Corrêa
 
 Este livro apresenta os conceitos e técnicas fundamentais para aqueles que desejam começar
 a trabalhar com Python para ciência de dados. O livro cobre os aspectos computacionais da ciência
@@ -17,5 +19,6 @@ Este trabalho está licenciado com uma Licença Creative Commons - Atribuição-
 Internacional. Isto significa que você pode alterar, transformar ou criar outra obra com base nesta,
 contanto que atribua o crédito ao autor original e não utilize a obra derivada para fins comerciais.
 
-Conheça também o meu livro sobre a biblioteca 'pandas'
-: https://www.casadocodigo.com.br/products/livro-pandas-python
+
+Conheça também meu livro *"Pandas Python: Data Wrangling para Ciência de Dados"*. Informações completas em:  https://www.casadocodigo.com.br/products/livro-pandas-python
+
