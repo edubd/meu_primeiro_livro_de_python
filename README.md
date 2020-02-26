@@ -2,6 +2,8 @@
 
 ## Eduardo Corrêa
 
+### versão 2.0.0
+
 Este livro apresenta os conceitos e técnicas fundamentais para aqueles que desejam começar
 a trabalhar com Python para ciência de dados. O livro cobre os aspectos computacionais da ciência
 de dados, o que significa que tem como foco principal ensinar o leitor a desenvolver programas
@@ -20,8 +22,8 @@ Internacional. Isto significa que você pode alterar, transformar ou criar outra
 contanto que atribua o crédito ao autor original e não utilize a obra derivada para fins comerciais.
 
 
-Conheça também meu livro **"Pandas Python: Data Wrangling para Ciência de Dados"**, lançado pela 
-editora Casa do Código, que é inteiramente dedicado à biblioteca 'pandas', a mais popular 
+Conheça também o livro **"Pandas Python: Data Wrangling para Ciência de Dados"**, lançado pela 
+editora Casa do Código. Ele é inteiramente dedicado à biblioteca 'pandas', a mais popular 
 biblioteca para Ciência de Dados do Python. 
-Informações completas em:  https://www.casadocodigo.com.br/products/livro-pandas-python
+Informações completas em:  https://www.casadocodigo.com.br/products/livro-pandas-python.
 
