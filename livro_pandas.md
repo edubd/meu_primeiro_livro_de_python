@@ -1,4 +1,4 @@
-Atenção! Conheça também o "meu segundo livro" de Python, recém-lançado pela editora Casa do Código:
+Atenção! Conheça também o "meu segundo livro" de Python, lançado pela editora Casa do Código:
 
 "Pandas Python Data Wrangling para Ciência de Dados" 
 
